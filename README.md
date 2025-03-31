@@ -1,12 +1,12 @@
-<h1 align="left"><b>¡Hola! Soy Sofía</b> <img src="https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif" width="35"></h1>
+<h1 align="left"><b>¡Hola! Soy Sofía</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Coding Girl" src="https://user-images.githubusercontent.com/74038190/248419898-1e1a8c15-4990-4b87-98c8-d6f9cd9b49f8.gif" />
+<img align="right" width=300px alt="Coding Girl" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
 
 <p align="left">Actualmente estoy inmersa en el mundo del desarrollo backend. Me encanta descubrir nuevas tecnologías, enfrentar desafíos y mejorar mis habilidades cada día. Siempre estoy en busca de aprender más y construir soluciones eficientes y funcionales.</p>
 
 - 🚀 Apasionada por el backend y la optimización de sistemas.
 - 💡 Siempre con ganas de aprender y explorar nuevas herramientas.
-- 📫 Puedes contactarme en: <a href="mailto:sofya3ama@gmail.com">sofya3ama@gmail.com</a>
+- 📫 Puedes contactarme en : <a href="mailto:sofya3ama@gmail.com">sofya3ama@gmail.com</a>
 
 <h2 align="left">Tecnologías y herramientas:</h2>
 <div>
